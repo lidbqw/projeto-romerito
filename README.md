@@ -76,6 +76,6 @@ pip install -r requirements.txt
 5. Acesse em -> http://127.0.0.1:5000
 
 👨‍💻 Autores:
-César, Godofredo, Jacioneide e Lídia.
+César da Silva Santos, Godofredo Dantas de Medeiros Maia, Jacioneide Michelle Alves de Araújo e Lídia Maria de Medeiros Santos.
 Projeto desenvolvido como atividade prática de Flask + SQLAlchemy.
 📅 2025
